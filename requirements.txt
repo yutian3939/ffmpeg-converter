@@ -1,0 +1,5 @@
+# FFmpeg 格式转换器 - 依赖清单
+
+PyQt5>=5.15.0
+ffmpeg-python>=0.2.0
+pyinstaller>=5.0

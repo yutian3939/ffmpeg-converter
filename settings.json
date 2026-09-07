@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "settings": {
+    "max_concurrent": 2,
+    "default_output_dir": "",
+    "after_conversion": "none",
+    "play_sound_on_complete": false,
+    "show_notification": true
+  },
+  "last_preset": "WAV 音频",
+  "last_hwaccel": "cuda",
+  "last_input_dir": "C:/Users/20329/Videos/Videos/中絲悠",
+  "user_presets": [],
+  "splitter_sizes": [
+    395,
+    585
+  ]
+}
